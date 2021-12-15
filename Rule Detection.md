@@ -1,5 +1,3 @@
-# Detection Rules:
-
 # Splunk 
 
 
